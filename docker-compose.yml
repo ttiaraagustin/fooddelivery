@@ -1,0 +1,11 @@
+version: '3'
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"  # Ubah ke port 3000
+    environment:
+      - VITE_HOST=0.0.0.0  # Pastikan host diatur ke 0.0.0.0
+    command: npm run dev
