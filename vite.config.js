@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: '0.0.0.0',  // Agar dapat diakses dari luar kontainer
-    port: 3000,        // Ganti port ke 3000
+    port: 5173,        // Ganti port ke 3000
   },
 });
