@@ -2,6 +2,13 @@
 
 Tomato is a sleek, user-friendly food ordering platform that brings a world of culinary delights right to your fingertips. From mouth-watering main courses to delectable desserts, order your favorite dishes with ease and elevate your dining experience.
 
+## 📋 Task Description
+
+For this project, we are assigned to:
+
+1. Create a GitHub Action for this new project.
+2. Run the application in a **Docker** environment.
+   
 ## 🌟 Features
 
 - **Diverse Menu**: Explore a wide range of cuisines and dishes
@@ -29,4 +36,8 @@ Tomato is a sleek, user-friendly food ordering platform that brings a world of c
 - Riska Haqika Situmorang (2208107010086)
 
 ## Deskripsi Tugas
-Pada tugas kali ini, kami diminta untuk membuat GitHub Action untuk project baru.  dan  kami menjalankannya di **Docker**.
+Pada tugas kali ini, kami diminta untuk membuat GitHub Action untuk project baru.  dan  menjalankannya di **Docker**.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
