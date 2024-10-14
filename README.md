@@ -50,8 +50,6 @@ We leverage GitHub Actions for our CI/CD pipeline. Our workflow includes:
 
 This automation ensures code quality, streamlines the deployment process, and maintains a consistent release cycle.
 
-For detailed configuration, please refer to the `.github/workflows/main.yml` file.
-
 ## 🤝 Kelompok 12
 - Tiara Agustin (2208107010004)
 - Riska Haqika Situmorang (2208107010086)
