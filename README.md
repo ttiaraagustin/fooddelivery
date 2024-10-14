@@ -31,7 +31,28 @@ For this project, we are assigned to:
 5. Start the development server
 6. npm run dev
 
-## 🤝 Contributing (Kelompok 12)
+## 🐳 Docker
+
+This project utilizes Docker to ensure environment consistency. To run the application using Docker:
+
+1. Ensure Docker is installed on your system.
+2. Run `docker-compose up --build` in the project root.
+3. The application will be available at `http://localhost:3000`.
+
+Docker containerization allows for consistent development, testing, and production environments, minimizing "it works on my machine" issues.
+
+## 🔄 GitHub Actions
+
+We leverage GitHub Actions for our CI/CD pipeline. Our workflow includes:
+
+- Code linting and testing on every push or pull request to the `main` branch.
+- Building and deploying a Docker image to a container registry on each new release.
+
+This automation ensures code quality, streamlines the deployment process, and maintains a consistent release cycle.
+
+For detailed configuration, please refer to the `.github/workflows/main.yml` file.
+
+## 🤝 Kelompok 12
 - Tiara Agustin (2208107010004)
 - Riska Haqika Situmorang (2208107010086)
 
