@@ -1,6 +1,6 @@
-# Tomato - Food Ordering Website
+# 🍅 Tomato - Delicious Food, Delivered
 
-Tomato is a modern, user-friendly food ordering website that allows customers to browse menus and order their favorite dishes online.
+Tomato is a sleek, user-friendly food ordering platform that brings a world of culinary delights right to your fingertips. From mouth-watering main courses to delectable desserts, order your favorite dishes with ease and elevate your dining experience.
 
 ## Kelompok 12
 - Tiara Agustin (2208107010004)
