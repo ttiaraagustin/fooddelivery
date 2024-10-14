@@ -23,10 +23,8 @@ Tomato is a sleek, user-friendly food ordering platform that brings a world of c
 4. Set up environment variables
 5. Start the development server
 6. npm run dev
-   
 
-
-## Kelompok 12
+## 🤝 Contributing (Kelompok 12)
 - Tiara Agustin (2208107010004)
 - Riska Haqika Situmorang (2208107010086)
 
