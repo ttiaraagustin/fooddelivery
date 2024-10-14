@@ -8,6 +8,23 @@ Tomato is a sleek, user-friendly food ordering platform that brings a world of c
 - **Easy Ordering**: Seamless process from browsing to checkout
 - **User Accounts**: Personalized recommendations and order history
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or later)
+- npm (v6 or later)
+
+### Installation
+
+1. Clone the repository
+2. Navigate to the project directory  
+3. Install dependencies
+4. Set up environment variables
+5. Start the development server
+6. npm run dev
+   
+
 
 ## Kelompok 12
 - Tiara Agustin (2208107010004)
