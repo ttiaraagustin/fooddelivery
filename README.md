@@ -54,6 +54,3 @@ This automation ensures code quality, streamlines the deployment process, and ma
 - Tiara Agustin (2208107010004)
 - Riska Haqika Situmorang (2208107010086)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
