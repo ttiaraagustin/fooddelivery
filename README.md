@@ -37,7 +37,7 @@ This project utilizes Docker to ensure environment consistency. To run the appli
 
 1. Ensure Docker is installed on your system.
 2. Run `docker-compose up --build` in the project root.
-3. The application will be available at `http://localhost:3000`.
+3. The application will be available at `http://localhost:5173`.
 
 Docker containerization allows for consistent development, testing, and production environments, minimizing "it works on my machine" issues.
 
