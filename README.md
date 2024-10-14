@@ -56,9 +56,6 @@ For detailed configuration, please refer to the `.github/workflows/main.yml` fil
 - Tiara Agustin (2208107010004)
 - Riska Haqika Situmorang (2208107010086)
 
-## Deskripsi Tugas
-Pada tugas kali ini, kami diminta untuk membuat GitHub Action untuk project baru.  dan  menjalankannya di **Docker**.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
